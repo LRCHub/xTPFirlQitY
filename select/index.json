@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "悪霊",
+  "base_artist": "john",
+  "createdAt": "2025-12-12T00:53:46.818286Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悪霊",
+      "artist": "john",
+      "has_synced": false,
+      "path": "select/01_悪霊_john.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "悪霊",
+      "artist": "人間椅子",
+      "has_synced": false,
+      "path": "select/02_悪霊_人間椅子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悪霊",
+      "artist": "John",
+      "has_synced": false,
+      "path": "select/pl_01_悪霊_John.txt"
+    }
+  ]
+}
